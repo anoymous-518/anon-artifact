@@ -123,7 +123,7 @@ needed to seat all the guests if each table seats exactly 8 people?
 
 ---
 
-# Post-Task Evaluation Questions
+# Post-Question Evaluation
 
 ### Trust Rating
 Please rate how much you trust the AI-generated explanation for this question.
