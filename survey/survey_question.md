@@ -1,3 +1,5 @@
+The study includes 40 main task questions spanning multiple domains.
+Representative examples are provided below.
 
 # Example Main Task Questions
 ## Q1
