@@ -11,14 +11,20 @@ Due to ethical and privacy considerations, no raw human-subject data are include
 
 ---
 
-## Repository Structure
+## Survey Materials
 
-.
-├── README.md
-└── survey/
-├── README.md
-├── survey_instrument.md
-└── survey_questions.md
+All survey-related materials are located in the `survey/` directory.
 
+- **Survey Instrument** (`survey/survey_instrument.md`)  
+  Describes the complete survey instrument, including participant instructions,
+  eligibility screening, demographic questions, main task structure, and post-task
+  evaluation measures.
+
+- **Survey Questions** (`survey/survey_questions.md`)  
+  Provides the full wording of survey questions, including eligibility and demographic
+  items, trust measures, and representative examples of the main task questions.
+
+Additional details about the organization of these materials are provided in
+`survey/README.md`.
 
 ---
