@@ -20,11 +20,22 @@ All survey-related materials are located in the `survey/` directory.
   eligibility screening, demographic questions, main task structure, and post-task
   evaluation measures.
 
-- **Survey Questions** (`survey/survey_questions.md`)  
+- **Survey Questions** (`survey/survey_question.md`)  
   Provides the full wording of survey questions, including eligibility and demographic
   items, trust measures, and representative examples of the main task questions.
 
-Additional details about the organization of these materials are provided in
-`survey/README.md`.
+
+---
+## Data Availability
+
+This study involves human participants and was conducted under institutional ethics
+approval.
+
+- **Raw survey response data and participant-level results are not publicly released**
+  due to IRB requirements and data privacy constraints.
+- No personally identifiable information is included in this repository.
+
+The released materials are sufficient to understand, evaluate, and reproduce
+the survey design and measurement protocol.
 
 ---
