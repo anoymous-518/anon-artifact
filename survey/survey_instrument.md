@@ -40,17 +40,8 @@ Participants proceeded only after indicating agreement.
 
 ---
 
-## 3. Language Selection
 
-Participants selected their preferred survey language:
-- English
-- Chinese (中文)
-
-(The remainder of the survey was presented in the selected language.)
-
----
-
-## 4. Eligibility Screening
+## 3. Eligibility Screening
 
 Participants answered screening questions prior to the main survey:
 
@@ -72,7 +63,7 @@ excluded, and their responses were not recorded.
 
 ---
 
-## 5. Demographic Information
+## 4. Demographic Information
 
 Participants provided demographic information, including:
 
@@ -114,7 +105,7 @@ Participants provided demographic information, including:
 
 ---
 
-## 6. Main Task Instructions
+## 5. Main Task Instructions
 
 Participants were informed that they would see **40 multiple-choice questions**.
 For each question:
@@ -125,7 +116,7 @@ For each question:
 
 ---
 
-## 7. Main Task Questions
+## 6. Main Task Questions
 
 Each main task question followed the same structure.
 
@@ -151,7 +142,7 @@ D. superficial temporal artery crosses the orbital rim
 
 ---
 
-## 8. Trust Evaluation Measure
+## 7. Trust Evaluation Measure
 
 After each question, participants answered:
 
@@ -163,7 +154,7 @@ Responses were collected on a **7-point Likert scale**:
 
 ---
 
-## 9. Trust Attribution Question
+## 8. Trust Attribution Question
 
 After rating trust, participants were asked to indicate the primary reason for
 their trust or lack of trust in the AI-generated result. Options included:
@@ -175,7 +166,7 @@ their trust or lack of trust in the AI-generated result. Options included:
 
 ---
 
-## 10. Randomization and Presentation Logic
+## 9. Randomization and Presentation Logic
 
 - The order of the 40 main task questions was randomized for each participant.
 - Each participant saw exactly one AI-generated explanation per question.
@@ -184,7 +175,7 @@ their trust or lack of trust in the AI-generated result. Options included:
 
 ---
 
-## 11. Data Handling and Privacy
+## 10. Data Handling and Privacy
 
 - No personally identifiable information was collected.
 - Responses were stored and analyzed in aggregate form only.
@@ -193,7 +184,7 @@ their trust or lack of trust in the AI-generated result. Options included:
 
 ---
 
-## 12. Completion
+## 11. Completion
 
 Participants completed the survey after answering all questions and were
 provided with compensation upon valid completion.
