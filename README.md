@@ -1,11 +1,10 @@
 ## Overview
 
-This artifact documents a **survey-based human-subject study** that examines how
-AI-generated answers and explanations influence human trust and decision-making.
+This repository contains the artifact for our survey-based human-subject study, **“When AI Persuades: Adversarial Explanation Attacks on Human Trust in AI-Assisted Decision Making.”**
 
-The repository provides the complete survey structure and question wording used in
-the study, along with representative examples of the main task questions.
-These materials allow readers and reviewers to understand the experimental design.
+The study examines how AI-generated explanations that are plausible but adversarially framed can influence human trust and decision-making in AI-assisted tasks.
+
+This artifact provides the survey materials used in the study, including the full survey structure and questions, and representative examples of the main task items. These materials are intended to help readers and reviewers understand the experimental design, task setup, and measurement protocol.
 
 Due to ethical and privacy considerations, no raw human-subject data are included.
 
@@ -17,19 +16,16 @@ All survey-related materials are located in the `survey/` directory.
 
 - **Survey Instrument** (`survey/survey_instrument.md`)  
   Describes the complete survey instrument, including participant instructions,
-  eligibility screening, demographic questions, main task structure, and post-task
-  evaluation measures.
+  eligibility screening, demographic questions, main task structure, trust collection, and post-task feedback.
 
 - **Survey Questions** (`survey/survey_question.md`)  
-  Provides the full wording of survey questions, including eligibility and demographic
-  items, trust measures, and representative examples of the main task questions.
+  Provides representative examples of the main task questions used in the study.
 
 
 ---
 ## Data Availability
 
-This study involves human participants and was conducted under institutional ethics
-approval.
+This study involves human participants and was conducted under IRB approval.
 
 - **Raw survey response data and participant-level results are not publicly released**
   due to IRB requirements and data privacy constraints.
