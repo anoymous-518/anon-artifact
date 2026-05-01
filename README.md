@@ -21,7 +21,13 @@ All survey-related materials are located in the `survey/` directory.
 - **Survey Questions** (`survey/survey_question.md`)  
   Provides representative examples of the main task questions used in the study.
 
+## Prompt
 
+All prompts are in the `prompt/` directory.
+
+- **Explanation Generation Prompt** (`prompt/explanation-generation-prompt.md`)  
+
+- **Explanation Evaluation Prompt** (`prompt/explanation-validation-prompt.md`)  
 ---
 ## Data Availability
 
